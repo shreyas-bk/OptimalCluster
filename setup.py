@@ -11,7 +11,7 @@ setuptools.setup(
     description="Python implementation of various algorithms to find the optimal number of clusters",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/shreyas-bk/OptiClustTest",
+    url="https://github.com/shreyas-bk/OptimalCluster",
     packages=['OptimalCluster'],
     license="MIT",
     classifiers=[
