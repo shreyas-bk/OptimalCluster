@@ -26,4 +26,4 @@ Visit this link : [Documentation](https://github.com/shreyas-bk/OptimalCluster/b
 
 ## Example
 
-Visit this link : [Example](https://colab.research.google.com/github/shreyas-bk/OptimalCluster/blob/master/ExampleSource.ipynb)
+Visit this link : [Example](https://colab.research.google.com/github/shreyas-bk/OptimalClusterExampleNB/blob/master/Example.ipynb)
