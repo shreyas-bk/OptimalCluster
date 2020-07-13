@@ -1,4 +1,5 @@
-'OptimalCluster.opticlust.Optimal'
+`OptimalCluster.opticlust.Optimal`
+
 To find optimal number of clusters using different 
     optimal clustering algorithms such as elbow, elbow-k_factor, 
     silhouette, gap statistics, gap statistics with standard 
@@ -96,7 +97,8 @@ To find optimal number of clusters using different
     
     ----------
     
-'Optimal.elbow'
+`Optimal.elbow`
+
 Determines optimal number of clusters using elbow method.
         
          Parameters
@@ -162,7 +164,8 @@ Determines optimal number of clusters using elbow method.
     
         ----------
     
-'Optimal.elbow_kf'
+`Optimal.elbow_kf`
+
 Determines optimal number of clusters by measuring linearity 
         along with a k factor analysis.
         
@@ -218,7 +221,8 @@ Determines optimal number of clusters by measuring linearity
     
         ----------
     
-'Optimal.silhouette'
+`Optimal.silhouette`
+
 Determines optimal number of clusters by finding the cluster 
         value that gives the maximum silhouette score (using sklearn's 
         silhouette_score).
@@ -258,7 +262,8 @@ Determines optimal number of clusters by finding the cluster
     
         ----------
     
-'Optimal.gap_stat'
+`Optimal.gap_stat`
+
 Determine the optimal number of clusters using the gap statistic 
         as descibed by Tibshirani, Walther and Hastie. Finds optimal 
         cluster value by finding clutser number that produces maximum 
@@ -304,7 +309,8 @@ Determine the optimal number of clusters using the gap statistic
     
         ----------
 
-'Optimal.gap_stat_se'
+`Optimal.gap_stat_se`
+
 Determine the optimal number of clusters using the gap statistic 
         along with standard error as descibed by Tibshirani, Walther and Hastie.
         This method works better than gap_stat when there are custers that are 
@@ -357,7 +363,8 @@ Determine the optimal number of clusters using the gap statistic
     
         ----------
 
-'Optimal.gap_stat_wolog'
+`Optimal.gap_stat_wolog`
+
 Determines the optimal cluster value in a similar fashion to 
         the gap statistic method, but without caluclating logarithms as descirbed
         by Mohajer, Englmeier and Schmid. This method may work better when the 
