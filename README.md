@@ -1,4 +1,7 @@
 # OptimalCluster
+
+Note - Looking for contributors to imporve this package, message me on LinkedIn if interested : [LinkedIn](https://www.linkedin.com/in/shreyas-kera-027727178/)
+
 OptimalCluster is the Python implementation of various algorithms to find the optimal number of clusters. The algorithms include elbow, elbow-k_factor, silhouette, gap statistics, gap statistics with standard error, and gap statistics without log. Various types of visualizations are also supported.
 
 For references about the different algorithms visit the following sites:
