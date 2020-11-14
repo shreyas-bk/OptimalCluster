@@ -34,7 +34,7 @@ Visit this link : [Example](https://colab.research.google.com/github/shreyas-bk/
 
 Note - Looking for contributors to imporve this package, message me on LinkedIn if interested : [LinkedIn](https://www.linkedin.com/in/shreyas-kera-027727178/)
 
-#TODO
+# TODO
 
  - add increment_step param to elbow_kf with default as 0.5
  - New verbose parameter addition for methods
