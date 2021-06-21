@@ -3,6 +3,8 @@
 [![Downloads](https://pepy.tech/badge/optimalcluster)](https://pepy.tech/project/optimalcluster)
 (From [PePy](https://pepy.tech/project/OptimalCluster))
 
+Check out https://shreyas-bk.github.io/OptimalCluster/
+
 OptimalCluster is the Python implementation of various algorithms to find the optimal number of clusters. The algorithms include elbow, elbow-k_factor, silhouette, gap statistics, gap statistics with standard error, and gap statistics without log. Various types of visualizations are also supported.
 
 For references about the different algorithms visit the following sites:
