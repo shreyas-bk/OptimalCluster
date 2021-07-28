@@ -50,9 +50,6 @@ plt.scatter(x[:, 0], x[:, 1])
 plt.show()
 df = pd.DataFrame(x,columns=['A','B'])
 ```
-
-    C:\Users\Administrator\anaconda3\envs\tensorflow\lib\site-packages\sklearn\utils\deprecation.py:144: FutureWarning: The sklearn.datasets.samples_generator module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.datasets. Anything that cannot be imported from sklearn.datasets is now part of the private API.
-      warnings.warn(message, FutureWarning)
     
 
 
@@ -194,8 +191,6 @@ df = pd.DataFrame(x,columns=['A','B'])
 opt.gap_stat(df,display=True,visualize=True)
 ```
 
-    C:\Users\Administrator\anaconda3\envs\tensorflow\lib\site-packages\OptimalCluster\opticlust.py:174: UserWarning: Many cases to check, may take some time
-      warnings.warn('Many cases to check, may take some time')
     
 
 
@@ -219,9 +214,6 @@ df = pd.DataFrame(x,columns=['A','B','C'])
 ```python
 opt.gap_stat_se(df,display=True,visualize=True,upper=20)
 ```
-
-    C:\Users\Administrator\anaconda3\envs\tensorflow\lib\site-packages\OptimalCluster\opticlust.py:204: UserWarning: Many cases to check, may take some time
-      warnings.warn('Many cases to check, may take some time')
     
 
 
@@ -247,8 +239,6 @@ df = pd.DataFrame(data= np.c_[iris['data'], iris['target']],
 opt.gap_stat_wolog(df[['petal width (cm)']],display=True,visualize=True)
 ```
 
-    C:\Users\Administrator\anaconda3\envs\tensorflow\lib\site-packages\OptimalCluster\opticlust.py:245: UserWarning: Many cases to check, may take some time
-      warnings.warn('Many cases to check, may take some time')
     
 
 
