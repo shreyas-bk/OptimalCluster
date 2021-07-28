@@ -11,7 +11,7 @@ For references about the different algorithms visit the following sites:
 
 elbow : [Elbow Method](https://en.wikipedia.org/wiki/Elbow_method_(clustering).)
 
-elbow_kf : 
+elbow_kf : _my own implementation, details to be added soon_
 
 silhouette : [Silhouette Score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html)
 
@@ -34,7 +34,7 @@ Visit this link : [Documentation](https://github.com/shreyas-bk/OptimalCluster/b
 
 Visit this link : [Example](https://colab.research.google.com/github/shreyas-bk/OptimalClusterExampleNB/blob/master/Example.ipynb)
 
-Note - Looking for contributors to imporve this package, message me on LinkedIn if interested : [LinkedIn](https://www.linkedin.com/in/shreyas-kera-027727178/)
+_Contributions are welcome, please raise a PR_
 
 # TODO
 
