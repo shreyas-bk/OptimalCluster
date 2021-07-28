@@ -48,7 +48,7 @@ To find optimal number of clusters using different
         increasing the standard error weight up until the optimal cluster value 
         does not change.  
         
-        For more details visit *link*
+        Link with more details will be added soon
         
     silhouette : Determines optimal number of clusters by finding the cluster 
         value that gives the maximum silhouette score (using sklearn's 
