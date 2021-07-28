@@ -65,11 +65,6 @@ opt.elbow(df)
 ```
 
     Optimal number of clusters is:  3 
-    
-
-
-
-
     3
 
 
@@ -88,11 +83,6 @@ opt.elbow(df,display=True,visualize=True)
 
 
     Optimal number of clusters is:  3 
-    
-
-
-
-
     3
 
 
@@ -123,11 +113,6 @@ opt.elbow(df,display=True,visualize=True,method='lin',sq_er=0.5)
 
 
     Optimal number of clusters is:  5 
-    
-
-
-
-
     5
 
 
@@ -158,11 +143,6 @@ opt.elbow_kf(df,display=True,visualize=True)
 
 
     Optimal number of clusters is:  7  with k_factor: 0.29 . Lesser k_factor may be due to overlapping clusters, try increasing the se_weight parameter to 2.0
-    
-
-
-
-
     7
 
 
@@ -173,11 +153,6 @@ opt.elbow_kf(df,se_weight=2.5)
 ```
 
     Optimal number of clusters is:  8  with k_factor: 0.88 . 
-    
-
-
-
-
     8
 
 
@@ -188,11 +163,6 @@ opt.elbow_kf(df,se_weight=3)
 ```
 
     Optimal number of clusters is:  8  with k_factor: 0.88 . 
-    
-
-
-
-
     8
 
 
@@ -203,11 +173,6 @@ opt.elbow_kf(df,se_weight=3.5)
 ```
 
     Optimal number of clusters is:  8  with k_factor: 1.0 . 
-    
-
-
-
-
     8
 
 
@@ -240,10 +205,6 @@ opt.gap_stat(df,display=True,visualize=True)
 
 ![png](assets/output_12_2.png)
 
-
-
-
-
     10
 
 
@@ -271,9 +232,6 @@ opt.gap_stat_se(df,display=True,visualize=True,upper=20)
 ![png](assets/output_14_2.png)
 
 
-
-
-
     11
 
 
@@ -299,10 +257,6 @@ opt.gap_stat_wolog(df[['petal width (cm)']],display=True,visualize=True)
 
 
 ![png](assets/output_15_2.png)
-
-
-
-
 
     3
 
