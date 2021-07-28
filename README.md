@@ -32,7 +32,7 @@ Visit this link : [Documentation](https://github.com/shreyas-bk/OptimalCluster/b
 
 ## Example
 
-Visit this link : [Example](https://colab.research.google.com/github/shreyas-bk/OptimalClusterExampleNB/blob/master/Example.ipynb)
+Visit this link for interactive colab demo : [Example](https://colab.research.google.com/github/shreyas-bk/OptimalClusterExampleNB/blob/master/Example.ipynb)
 
 ```python
 from OptimalCluster.opticlust import Optimal
