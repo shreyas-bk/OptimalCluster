@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="OptimalCluster",
     version="0.1.0",
-    author="Shreyas Kera",
+    author="Shreyas Bhat Kera",
     author_email="shreykera7@gmail.com",
     description="Python implementation of various algorithms to find the optimal number of clusters",
     long_description=long_description,
