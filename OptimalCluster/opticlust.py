@@ -1,4 +1,5 @@
 #requirements: numpy, pandas, sklearn, scipy, matplotlib, mpl_toolkits, seaborn
+#todo: add requirements.txt
 import numpy as np
 import pandas as pd # added pandas module for v 0.0.5 (needed when features=3, visualize=True)
 from sklearn.cluster import KMeans
